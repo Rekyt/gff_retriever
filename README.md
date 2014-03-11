@@ -1,4 +1,4 @@
 gff_retriever
 =============
 
-From a GFF file retrieves all the Coding Sequnces
+From a GFF file retrieves all the Coding Sequences
